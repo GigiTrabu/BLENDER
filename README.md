@@ -201,6 +201,15 @@ Il risultato dopo aver visto i suoi video è stato il seguente. ***finale_13.ble
 
 ![image](https://github.com/user-attachments/assets/6d7598ea-ac6e-4396-9ab7-ab86faa2b28e)
 
+14. Sul canale linkato ho trovato un sacco di materiali interessantissimi e perfetti per il mio progetto. Ho cercato di creare un mio materiale per la spada dopo aver visto il suo video. Inizialmente è stato molto difficile comprendere alcuni tipi di nodi m andando avanti si cominciano a comprendere. Risultano essere solo una successione *Noise Texture* e *Varanoi Texture* che intervallate da *Color ramp* e *Bump* restituiscono l'effetto desiderato.
+Senza una conoscenza approfondita dei materiali è quasi impossibile creare un materiale realistico per questo ho preso molta ispirazione dal ragazzo dei video e cercando poi di modificali a mio gusto anche per prendere dimestichezza e per capire i vari modificatori di ogni nodo.
+L'effetto finale della spada è il seguente. ***finale_14.blend***
+
+![image](https://github.com/user-attachments/assets/de417d99-9907-4565-b06e-3fb4bec7d321)
+
+![image](https://github.com/user-attachments/assets/e8842f24-4854-496e-9578-01b1d677e2ed)
+
+
 
 
 
