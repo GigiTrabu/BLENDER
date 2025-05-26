@@ -148,6 +148,20 @@ Utilizzando sempre una *curva di Bézier* ho creato la sciarpa, ne ho tappato i 
 
 https://github.com/user-attachments/assets/68464c4c-b39a-47ec-8f69-ad8f931104d7
 
+Sul file ***elmo.blend*** si trova il modello dell'elmo finito ed è il file che ho utilizzato per tutto il modello e per creare i salvataggi intermedi
+
+# FINALE 🏁
+
+Dopo aver creato i 3 modelli il risultato è il seguente. ***all_models.belnd***
+
+![image](https://github.com/user-attachments/assets/9acc460f-2d71-45ed-9040-34e19845463c)
+
+Ho deciso di "buttare" il lavoro fatto di sculpting con i colori, non ne ero soddisfatto e sono ripartito dai modelli con il materiale di base e mi sono messo a studiare attraverso diversi video e forum, il mondo dello shading e della realizzazione dei materiali.
+Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso tempo affascinante, sicuramente in futuro ne approfondirò le peculiarità.
+
+
+
+
 
 
 
