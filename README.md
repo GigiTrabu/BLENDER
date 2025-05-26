@@ -205,9 +205,25 @@ Il risultato dopo aver visto i suoi video è stato il seguente. ***finale_13.ble
 Senza una conoscenza approfondita dei materiali è quasi impossibile creare un materiale realistico per questo ho preso molta ispirazione dal ragazzo dei video e cercando poi di modificali a mio gusto anche per prendere dimestichezza e per capire i vari modificatori di ogni nodo.
 L'effetto finale della spada è il seguente. ***finale_14.blend***
 
-![image](https://github.com/user-attachments/assets/de417d99-9907-4565-b06e-3fb4bec7d321)
+![Screenshot 2025-05-26 153715](https://github.com/user-attachments/assets/a9b5927c-fa00-4e1c-b0d7-9158086c29a1)
 
 ![image](https://github.com/user-attachments/assets/e8842f24-4854-496e-9578-01b1d677e2ed)
+
+15. Mi sono occupato poi del materiale della chiave, facendomi ispirare dal suo video su un materiale *oro* perfetto per la chiave.
+Rispetto al suo materiale ho cercato di rendere la chiave più sporca inserendo molte più *Noise Texture* e più rampe di colore diverse, anche più verso l'arancione. ***finale_15.blend***
+
+![image](https://github.com/user-attachments/assets/e100ed86-10a1-497e-8379-eb85a97b0676)
+
+16. Sono passato poi all placca *base*, questo il nome del materiale, utilizzato anche sulla spada, ho cercato un materiale simile a quello della spada ma molto più rovinato. ***finale_16.blend***
+
+![image](https://github.com/user-attachments/assets/5c00a1d2-0b19-4a52-bf63-84955dc9e752)
+
+17. Come ultima cosa ho copiato lo stesos materiale usato nelle placche rpincipali, l'ho leggermente modificato rimuovendo alcuni *Noise Texture* e l'ho reso del colore desiderato. Materiale che è assegnato a tutti i rivetti e alla placca frontale. Guardando il disegno mi sono anche reso conto che questo materiale andava assegnato anch alla faccia superiore della placca superiore e così ho fatto. ***finale_17.blend***
+
+![image](https://github.com/user-attachments/assets/b95ad5d3-630d-41d4-908f-0e01e239f553)
+
+
+
 
 
 
