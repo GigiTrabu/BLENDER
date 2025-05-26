@@ -115,7 +115,20 @@ Dopodichè ho fatto un bevel dei lati della placca degli occhi. ***elmo_5.blend*
 
 ![image](https://github.com/user-attachments/assets/10e75cc4-6ce7-435e-9d79-74a2a0933ab9)
 
-6. 
+6. Ho fatto anche i tagli per gli occhi, sempre con lo strumento *knife*, dopodichè ho fatto un bevel per l'interno del taglio.
+Un problema ch eho avuto e stato quello di ritrovarmi con una grande quantità di edges inutili, creati dal bevel, quindi li ho "ripuliti" eliminando quelli non necessari. ***elmo_6.blend***
+
+![image](https://github.com/user-attachments/assets/c19e4178-3329-4a0f-8a01-e741ca69e524)
+
+7-8-9-10. A questo punto ho aggiunto i rivetti dell'elmo, ho usato diverse tecniche, di cui una suggerita nel video linkato sopra.
+Pre prima cosa un rivetto è semplicemente una sfera con un *subdivision modifier* e un *Shade auto smooth*, i primi che ho inserito sono quelli laterali che uniscono la placca frontale con quella posteriore, ho utilizzato un modificatore *Mirror* così da posizionarli solo su un lato.
+Poi mi sono occupato di quelli sulla placca superiore
+
+
+
+![image](https://github.com/user-attachments/assets/b24d49c0-9c43-49a9-a70b-43cc04d78e6a)
+
+
 
 
 
