@@ -186,6 +186,26 @@ Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso
 
 11. Mancava la sciarpa e il drappo della chiave, per non fare l'errore della prima volta che avevo colorato selezionando ogni porzione a mano, ho cercato online e mi sono inbattuto in un video che spiegava tutti gli 80+ nodi per i materiali su blender. Visto anche che da li a poco avrei lavorato sui materiali ho deciso di guardarlo per intero. [link al video](https://www.youtube.com/watch?v=cQ0qtcSymDI&t=401s)
 
+Tra i vari nodi ho individuato *Wave Texture* che unito ad un *Color ramp* con i miei due colori mi ha permesso di avere la mia sciarpa bi-color. Ho usato lo stesso materiale creato per tutte le parti con quel pattern andando di volta in volta a sistemare l'orientamento delle linee, la grandezza e la quantità.
+***finale_11.blend***
+
+![Screenshot 2025-05-26 151932](https://github.com/user-attachments/assets/27f95ad3-7b50-4fa3-95a6-bcba33e8b8c7)
+
+12. Finito il colore della sciarpa non ero soddisfatto dall'effeto, sembrava un pezzo di metallo più che una sciarpa. Seguendo sempre il video linkato sopra ho provato un pò di nodi differenti fino a trovare *Noise Texture* e *bump*, il primo crea, appunto, delle imperfezioni sulla mash, mentre bump le fa ,più o meno, risaltare. ***finale_12.blend***
+
+![image](https://github.com/user-attachments/assets/9e782a94-62d2-4352-9a80-a94ef82b041f)
+
+13. Andando avanti con i materiali ho provato a ricreare un effetto "pellato" per l'impugnatura della spada. Dopo un pò di tentativi non avevo creato un materiale che mi piacesse quindi cercando su youtube ho trovato il canale di un ragazzo che realizza materiali procedurali, da cui mi sono ispirato anche per i materiali successivi.
+[link al canale](https://www.youtube.com/@3dpunk)
+Il risultato dopo aver visto i suoi video è stato il seguente. ***finale_13.blend***
+
+![image](https://github.com/user-attachments/assets/6d7598ea-ac6e-4396-9ab7-ab86faa2b28e)
+
+
+
+
+
+
 
 
  
