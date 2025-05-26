@@ -152,12 +152,25 @@ Sul file ***elmo.blend*** si trova il modello dell'elmo finito ed è il file che
 
 # FINALE 🏁
 
-Dopo aver creato i 3 modelli il risultato è il seguente. ***all_models.belnd***
+1. Dopo aver creato i 3 modelli il risultato è il seguente. ***finale_1.blend***
+Ho deciso di "buttare" il lavoro fatto di sculpting con i colori, non ne ero soddisfatto e sono ripartito dai modelli con il materiale di base e mi sono messo a studiare attraverso diversi video e forum, il mondo dello shading e della realizzazione dei materiali.
+Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso tempo affascinante, sicuramente in futuro ne approfondirò le peculiarità.
 
 ![image](https://github.com/user-attachments/assets/9acc460f-2d71-45ed-9040-34e19845463c)
 
-Ho deciso di "buttare" il lavoro fatto di sculpting con i colori, non ne ero soddisfatto e sono ripartito dai modelli con il materiale di base e mi sono messo a studiare attraverso diversi video e forum, il mondo dello shading e della realizzazione dei materiali.
-Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso tempo affascinante, sicuramente in futuro ne approfondirò le peculiarità.
+2. Ho ripreso l'immagine di partenza e ho allineato i modelli come nell'immagine, (purtroppo ho dovuto sovrapporre la spada e la chiave in un punto). ***finale_2.blend***
+
+![image](https://github.com/user-attachments/assets/21dc10a6-9cd5-46ff-b89f-67db436c94a2)
+
+3-4. Come prima cosa ho provato la funzionalità del *vento*, con scarsi risultati. Leggendo online ho capito che la funzionalità del vento è difficile da gestire dati i molti fattorri che potrebbero causare il non funzionamento, decido di affrontarlo in seguito. Nel mentre ho sistemato la sciarpa pendendte che ora è molto più realistica. ***finale_3.blend*** - ***finale_4.blend***
+
+![image](https://github.com/user-attachments/assets/2669ae52-e030-4d98-97ff-ee650dd79cc6)
+
+5. Ho cominciato anche  apensare ad una possibile animazione differente da quella del vento, nel caso non fossi riuscito a farla funzionare. Ho creato una piccola animazione con la figura che gira di 360 gradi. Non mi ha emozionato e l'ho sccessivamente scartata. ***finale_5.blend***
+
+6. 
+
+
 
 
 
