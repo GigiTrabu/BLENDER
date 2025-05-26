@@ -180,6 +180,13 @@ Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso
 
 ![image](https://github.com/user-attachments/assets/5ae4d076-cd0e-43f8-903d-5083d7c40150)
 
+10. come ultima cosa ho diviso la spada (che era una mash unica) nei diversi pezzi che la compongono. Ad ogni pezzo poi ho assegnato il relativo materiale sempre settato con una *Color Ramp* per la luce. ***finale_10.blend***
+
+![image](https://github.com/user-attachments/assets/3a780b86-7f69-4744-8498-9243c9dd4da4)
+
+11. Mancava la sciarpa e il drappo della chiave, per non fare l'errore della prima volta che avevo colorato selezionando ogni porzione a mano, ho cercato online e mi sono inbattuto in un video che spiegava tutti gli 80+ nodi per i materiali su blender. Visto anche che da li a poco avrei lavorato sui materiali ho deciso di guardarlo per intero. [link al video](https://www.youtube.com/watch?v=cQ0qtcSymDI&t=401s)
+
+
 
  
 
