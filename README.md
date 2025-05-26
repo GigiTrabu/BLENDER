@@ -122,9 +122,13 @@ Un problema ch eho avuto e stato quello di ritrovarmi con una grande quantità d
 
 7-8-9-10. A questo punto ho aggiunto i rivetti dell'elmo, ho usato diverse tecniche, di cui una suggerita nel video linkato sopra.
 Pre prima cosa un rivetto è semplicemente una sfera con un *subdivision modifier* e un *Shade auto smooth*, i primi che ho inserito sono quelli laterali che uniscono la placca frontale con quella posteriore, ho utilizzato un modificatore *Mirror* così da posizionarli solo su un lato.
-Poi mi sono occupato di quelli sulla placca superiore
-
-
+Poi mi sono occupato di quelli sulla placca superiore, per prima cosa ho fatto un loop cut che circondasse tutta la placca, perfettamente centrato sul lato della placca, linea immaginaria di dove andranno i rivetti. dopodichè ho selezionato tutti gli edges partendo dal primo e premento *Ctrl* su quello centrale per selezionare anche tutti gli intermedi e li ho separati dal resto del modello.
+Utilizzando i *Geometry Nodes* sulla line appena separata e inserendo un *Istance on Points* e selezioanndo come istanza il rivetto. Per gestire poi il numero di rivetti aggiungiamo un *resample curve* così da gestire il numero di rivetti, a questo punto aggiungiamo un modificatore *Mirror* per l'altro lato della placca.
+Infine, "a mano", ho aggoiunto i rivetti attorno agli occhi e sulla placca frontale, sempre utilizzando *Mirror*
+- ***elmo_7.blend*** rivetti di unione tra le due placche principale 
+- ***elmo_8.blend*** rivetti sulla placca superiore
+- ***elmo_9.blend*** rivetti sulla placca frontale
+- ***elmo_10.blend*** rivetti sugli occhi
 
 ![image](https://github.com/user-attachments/assets/b24d49c0-9c43-49a9-a70b-43cc04d78e6a)
 
