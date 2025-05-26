@@ -140,7 +140,14 @@ Per creare la sciarpa ho utilizzato quindi una *Curva di Bézier*. ***elmo_11.bl
 12. Subito dopo ne ho sistemato la forma e la struttura, agigugnendo delle suddivisioni e aumentando, nella sezione *Geometry* dell'oggetto, il valore di *Extrude* e, nella sezione *Bevel*, il valore di *Depth* così da raggiungere la forma desiderata. ***elmo_12.blend***
 
 13. Mi sono occupato poi del pezzo di sciarpa pendente, siccome nella mia animazione voglio che sia lei a sventolare è un oggetto diverso rispetto al resto della sciarpa così da non avere problemi in seguito.
-Utilizzando sempre una *curva di Bézier* ho creato la sciarpa, ne ho tappato i buchi dopo averli dato una dimensione (*Fill Caps*)
+Utilizzando sempre una *curva di Bézier* ho creato la sciarpa, ne ho tappato i buchi dopo averli dato una dimensione (*Fill Caps*) e poi lo convertita in una mash, così come la curva precedente per la parte statica della sciarpa. ***elmo_13.blend***
+
+![image](https://github.com/user-attachments/assets/4db9942a-3c71-4e73-8d29-7f5e00840675)
+
+14. Infine, grazie anche ad una buona dose di studio e ricerca online tra youtube e blog, ho cercato di comprendere il funzionamento delle animazioni con i *cloth* e i vari parametri. Di seguito una delle prove con anch eun problema che avevo riscontrato con il tappo finale della sciarpa che si staccava dal resto della mash, risolto semplicemente ricostruendo le facce che lo componevano. ***elmo_14.blend***
+
+
+
 
 
 
