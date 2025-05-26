@@ -222,6 +222,14 @@ Rispetto al suo materiale ho cercato di rendere la chiave più sporca inserendo 
 
 ![image](https://github.com/user-attachments/assets/b95ad5d3-630d-41d4-908f-0e01e239f553)
 
+Giunto alla fine dell'editing dei materiali ho creato una scena e aggiustato le luci, ho utilizzato dei piani che ho scalato e posizionato a mio gradimento, ho impostato un colore e sezione dei materiali ho impostato la *Surface* come *Emission* così da avere della luce di quel colore. Ho settato anche la telecamera davanti al modello che si trova all'interno della scena costruita con dei "muri" neri così da non avere uno sfondo e poter giocare con le luci.
+Il file finale con il set up del rendering si trova nel file ***finale.blend***
+
+![image](https://github.com/user-attachments/assets/eb7bf072-3dae-418e-a813-6bee18e1b3ed)
+
+# RENDERING 
+
+
 
 
 
