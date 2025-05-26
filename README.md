@@ -168,7 +168,22 @@ Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso
 
 5. Ho cominciato anche  apensare ad una possibile animazione differente da quella del vento, nel caso non fossi riuscito a farla funzionare. Ho creato una piccola animazione con la figura che gira di 360 gradi. Non mi ha emozionato e l'ho sccessivamente scartata. ***finale_5.blend***
 
-6. 
+6. Dopo la fallimentare prova di animazione ho ricominciato la parte di shading e colorazione. Ho cominciato ad assegnare diversi materiali base alla mia figura, non più utilizzando la funzionalità Brush ma con la creazione di materiali. ***finale_6.blend***
+
+![image](https://github.com/user-attachments/assets/94eec815-d77a-47ee-909e-593651295038)
+
+7-8. Ho cominciato a lavorare sulla finestra di *shading* e ho lavorato sulle shader della chiave e della spada seguendo dei consigli di un forum. Ho aggiunto una *Color Ramp* al mio materiale *chiave* così da avere un cambio di color con la variazione della luce sull'oggetto. Da giallo scuro (oggetto non illuminato) a bianco (oggetto illuminato diretto) ***finale_7.blend*** - ***finale_8.blend***
+
+![image](https://github.com/user-attachments/assets/ec8d1031-d2e8-4fef-b27d-5002b7cbfb01)
+
+9. Ho utilizzato la stessa tecnica in tutte le porzioni dell'elmo, dai rivetti alle placche, cercando di mantenere il colore iniziale. ***finale_9.blend***
+
+![image](https://github.com/user-attachments/assets/5ae4d076-cd0e-43f8-903d-5083d7c40150)
+
+
+ 
+
+
 
 
 
