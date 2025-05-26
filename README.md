@@ -91,6 +91,18 @@ Ho provato anche ad aggiungere delle obre e dei punti di luce con il pennello ma
 
 # ELMO 🛡
 
+Per l'elmo non ho utilizzato l'immagine di riferimento poichè non essendo abbastanza dettagliata e senza un buon riferimento degli spazi sarebbe stato inutile. Ho trovato però su youtube un video di una modellazione di un elmo e ne ho preso ispirazione. [link al video](https://www.youtube.com/watch?v=yV5Kl4o13VE&t=149s)
+
+1. Questa volta ho subito impostato per bene le dimensioni e la posizione del mio oggetto iniziale (un cubo) così da non avere problemi in seguito.
+Il mio cubo iniziale ha subito un Bevel su 3 dei 4 lati esterni così da la sciare solo una "punta" ovvero l aparte d'avanti dell'elmo.
+Dopodichè ho fatto un loop cut *Ctrl+R* attorno alla mia figura e l'ho sistemataall'altezza degli occhi, dopodichè ho scalato il taglio così da creare la mia forma di partenza.
+Dopo aver "lisciato" le facce utilizzando i soliti modificatori, ho tagliato l atesta del mio modello così da creare la placca superiore dell'elmo, ho utilizzato lo strumento *knife* e poi ho modellato la placca scalando e facendo delle estrusioni per rendere la figura più interessante. ***elmo_1.blend***
+
+![image](https://github.com/user-attachments/assets/125e1aa5-7e93-4201-9ddf-66e636a3071c)
+
+2. 
+
+
 
 
 
