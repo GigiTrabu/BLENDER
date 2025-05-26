@@ -229,10 +229,10 @@ Il file finale con il set up del rendering si trova nel file ***finale.blend***
 
 # RENDERING 🎥 📷
 
+Per prima cosa ho riaffrontato il problema del vento, questa volta con dei risultati. Ho guardato una grande quantità di video di perosne che creavano delle bandiere al vento (non li linko tutti, sono veramente tanti) cercando di capire il perchè del  mio mancato funzionamento.
+Con calma studiando nel pannello *Physics* del vento ho trovato il problema. Non stavo dando abbastanza forza al vento il quale non spostava di un millimetro la mia sciarpa. Questo il risultato finale.
 
-
-
-
+https://github.com/user-attachments/assets/af1131f9-73a2-4dbf-8c6e-ee4115ec6fed
 
 
 
