@@ -100,7 +100,27 @@ Dopo aver "lisciato" le facce utilizzando i soliti modificatori, ho tagliato l a
 
 ![image](https://github.com/user-attachments/assets/125e1aa5-7e93-4201-9ddf-66e636a3071c)
 
-2. 
+2. A questo punto, visto che non avevo una reference precisa (il disegno iniziale è di vista frontale), ho inventato il retro, seguendo anche il video linkato il quale usa delle funzionalità a pagamento e quindi mi sono dovuto reinventare.
+ho diviso in due metà il pezzo principale e ho scalato quello posteriore così da dare l'effetto di due pezzi saldati insieme, ho poi tagliato in modo obliquo quello anteriore così da rendere più interessante il modello. ***elmo_2.blend***
+
+![Screenshot 2025-05-26 122059](https://github.com/user-attachments/assets/31f4b4ee-b2b6-4ad4-8919-fea22112162a)
+
+3-4. Utilizzando lo strumento *Knife* ho tagliato a "croce il modello sul davanti, prima tagliando per gli occhi e poi per la placca frontale. Anche in questo caso inizialmente ho avuto qualche difficolta con lo strumento ma con un pò di pratica ho avuto i miei tagli. ***elmo_3.blend*** - ***elmo_4.blend***
+
+![image](https://github.com/user-attachments/assets/718f20a7-f5d2-4d88-b0c1-b1eb155b05d4)
+
+5. A questo punto volevo estrudere verso l'esterno il taglio degli occhi e quello della placca frontale, ho avuto molte difficolta inizialmente perchè le mie estrusioni seguivano sempre un asse, ma io volevo che estrudesse seguendo la figura.
+Dopo varie ricerche ho scoperto che potevo *estrudere sulla normale* e quindi risolvere il problema di estrusione.
+Dopodichè ho fatto un bevel dei lati della placca degli occhi. ***elmo_5.blend***
+
+![image](https://github.com/user-attachments/assets/10e75cc4-6ce7-435e-9d79-74a2a0933ab9)
+
+6. 
+
+
+
+
+
 
 
 
