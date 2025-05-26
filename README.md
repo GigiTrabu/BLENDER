@@ -146,6 +146,8 @@ Utilizzando sempre una *curva di Bézier* ho creato la sciarpa, ne ho tappato i 
 
 14. Infine, grazie anche ad una buona dose di studio e ricerca online tra youtube e blog, ho cercato di comprendere il funzionamento delle animazioni con i *cloth* e i vari parametri. Di seguito una delle prove con anch eun problema che avevo riscontrato con il tappo finale della sciarpa che si staccava dal resto della mash, risolto semplicemente ricostruendo le facce che lo componevano. ***elmo_14.blend***
 
+[video](prova_animazione.mkv)
+
 
 
 
