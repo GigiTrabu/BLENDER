@@ -229,10 +229,22 @@ Il file finale con il set up del rendering si trova nel file ***finale.blend***
 
 # RENDERING 🎥 📷
 
+### Animazione del vento
 Per prima cosa ho riaffrontato il problema del vento, questa volta con dei risultati. Ho guardato una grande quantità di video di perosne che creavano delle bandiere al vento (non li linko tutti, sono veramente tanti) cercando di capire il perchè del  mio mancato funzionamento.
 Con calma studiando nel pannello *Physics* del vento ho trovato il problema. Non stavo dando abbastanza forza al vento il quale non spostava di un millimetro la mia sciarpa. Questo il risultato finale.
 
 https://github.com/user-attachments/assets/af1131f9-73a2-4dbf-8c6e-ee4115ec6fed
+
+### Primo rendering di un'immagine
+Ho eseguito il primo rendering con **2048 Samples** (decisamente troppi) e come render engine ho usato *Cycles*, molto buono per rappresentare le obre ma molto pesante da elaborare l'immagine. Il risultato è stato il seguente. ***Render.png***
+
+![Render](https://github.com/user-attachments/assets/9db0cade-0aa2-4387-8e02-34575b83c6ae)
+
+### Secondo rendering di un'immagine
+L'effetto mi piaceva molto, non è fedele all'immagine ma le due metà illuminate mi piacevano molto. Unica pecca è che mancava una luce chiara che illuminasse per bene il davanti e la spada e la chiave così l'ho aggiunta e questo è il risultato con **50 Samples** (decisamente pochi ma volevo testare la qualità per poi gestire al meglio la renderizzazione dell'animazione.
+
+
+
 
 
 
