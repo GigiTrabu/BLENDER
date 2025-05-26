@@ -241,7 +241,12 @@ Ho eseguito il primo rendering con **2048 Samples** (decisamente troppi) e come 
 ![Render](https://github.com/user-attachments/assets/9db0cade-0aa2-4387-8e02-34575b83c6ae)
 
 ### Secondo rendering di un'immagine
-L'effetto mi piaceva molto, non è fedele all'immagine ma le due metà illuminate mi piacevano molto. Unica pecca è che mancava una luce chiara che illuminasse per bene il davanti e la spada e la chiave così l'ho aggiunta e questo è il risultato con **50 Samples** (decisamente pochi ma volevo testare la qualità per poi gestire al meglio la renderizzazione dell'animazione.
+L'effetto mi piaceva molto, non è fedele all'immagine ma le due metà illuminate mi piacevano molto. Unica pecca è che mancava una luce chiara che illuminasse per bene il davanti e la spada e la chiave così l'ho aggiunta e questo è il risultato con **50 Samples** (decisamente pochi ma volevo testare la qualità per poi gestire al meglio la renderizzazione dell'animazione. ***render_50.png***
+
+![render_50](https://github.com/user-attachments/assets/2c5922cf-551c-4f3e-a559-4157ee3f486f)
+
+
+
 
 
 
