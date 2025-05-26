@@ -132,8 +132,15 @@ Infine, "a mano", ho aggoiunto i rivetti attorno agli occhi e sulla placca front
 
 ![image](https://github.com/user-attachments/assets/b24d49c0-9c43-49a9-a70b-43cc04d78e6a)
 
+11. Dopo aver completato la struttura dell'elmo mi sono preoccupato della sciarpa. Ho impiegato una grande quantità di tempo per capire quale tecnica utilizzare visto anche il fatto di non avere una figura sottostante (collo e spalle) su cui far poggiare la sciarpa, infatti ho deciso di lasciarla fissa e di asseganre il modificatore *Cloth* solamente al lembo di sciarpa che fuoriesce.
+Per creare la sciarpa ho utilizzato quindi una *Curva di Bézier*. ***elmo_11.blend***
 
+![image](https://github.com/user-attachments/assets/d91adfb9-d14d-4f16-8147-5dd16fe41cb5)
 
+12. Subito dopo ne ho sistemato la forma e la struttura, agigugnendo delle suddivisioni e aumentando, nella sezione *Geometry* dell'oggetto, il valore di *Extrude* e, nella sezione *Bevel*, il valore di *Depth* così da raggiungere la forma desiderata. ***elmo_12.blend***
+
+13. Mi sono occupato poi del pezzo di sciarpa pendente, siccome nella mia animazione voglio che sia lei a sventolare è un oggetto diverso rispetto al resto della sciarpa così da non avere problemi in seguito.
+Utilizzando sempre una *curva di Bézier* ho creato la sciarpa, ne ho tappato i buchi dopo averli dato una dimensione (*Fill Caps*)
 
 
 
