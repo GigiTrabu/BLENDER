@@ -227,7 +227,7 @@ Il file finale con il set up del rendering si trova nel file ***finale.blend***
 
 ![image](https://github.com/user-attachments/assets/eb7bf072-3dae-418e-a813-6bee18e1b3ed)
 
-# RENDERING 
+# RENDERING 🎥 📷
 
 
 
