@@ -38,8 +38,8 @@ dopodichè ho scalato il fondo utilizzando il *Proportional editing* per rispett
 
 ![image](https://github.com/user-attachments/assets/8c528481-3d20-4266-9b5e-580b0109549e)
 
-7. infine ho creato un semplice setup per provare ad acquisire un immagine impostando uno sfondo e una luce (non avevo ancoa tenuto la questione delle shader).
-Il setup si trova nel file ***spada.blend***, file principale da cui ho salvato i passaggi intermedi è il primo render è stato questo. **spada_render.png**
+7. infine ho creato un semplice setup per provare ad acquisire un immagine impostando uno sfondo e una luce (non avevo ancoa tenuto in considerazione la parte di shading).
+Il setup si trova nel file ***spada.blend***, file principale da cui ho salvato i passaggi intermedi. Il primo render è stato questo. **spada_render.png**
 
 ![spada_render](https://github.com/user-attachments/assets/7d370592-d2e5-431e-a639-3f90ecc62864)
 
@@ -53,14 +53,14 @@ Il cilindro iniziale dopo aver inserito un *subdivision modifier* e un *Shade au
 
 2. Mi sono occupato poi dell aparte più complicata dell'oggetto, la fine della chiave.
 Guardando online ho visto che, per fare corde/fili/tubi ..., si utilizzava il *NurbsPath* così ho deciso di utilizzarlo.
-Dopo aver struso varie volte e aver unito i due lembi, ne è risultato un ciclo che ho scalato rispetto all'immagine di riferimento.
+Dopo aver estruso varie volte e aver unito i due lembi, ne è risultato un ciclo che ho scalato rispetto all'immagine di riferimento.
 Rispetto all'immagine non è precisissima la parte centrale poichè nel caso avessi spostato troppo i nodi in alcuni punti si sovrapponevano e non ero pronto ad affrontare le sovrapposizioni già all'inizio, ho preferito quindi rendrlo più semplice ma comunque di effetto. ***chiave_2.blend***
 
 ![image](https://github.com/user-attachments/assets/c8c52d0c-ad21-40f8-a6b4-ece4b2a8e041)
 
 3. Dopodichè ho unito "l'asta" della chiave al mio NurbsPath estrundendo ancora l'asta, ho convertito il NurbsPath e l'ho sistemato. Dopo averlo reso una mash sono riuscito a modificarlo meglio così de renderlo più simile al disegno. ***chiave_3.blend***
 
-4. Mi sono occupato poi della vera e propriaparte per aprire la nostra porta. Ho utilizzato un piano che ho scalato e sistemato in corrispondenza del disegno. Ho utilizzato lo strumento *knife* per creare i tagli, inizialmente avevo pensato di utilizzare un modificatore specchio (che conoscevo già per la modellazione da stampa) ma mi piaceva che tutti i tagli non fossero uguali tra loro. Ho avuto qualche problema iniziale sull'uso dello strumento knife perchè non mi ero conto delle shortcut in basso nello schermo che permettevano di aggiungere delle funzionalità indispensabili, quali ad esempio il *cut throwh* (C). ***chiave_4.blend***
+4. Mi sono occupato poi della vera e propria parte per aprire la nostra porta. Ho utilizzato un piano che ho scalato e sistemato in corrispondenza del disegno. Ho utilizzato lo strumento *knife* per creare i tagli, inizialmente avevo pensato di utilizzare un modificatore specchio (che conoscevo già per la modellazione da stampa) ma mi piaceva che tutti i tagli non fossero uguali tra loro. Ho avuto qualche problema iniziale sull'uso dello strumento knife perchè non mi ero reso conto delle shortcut in basso nello schermo che permettevano di aggiungere delle funzionalità indispensabili, quali ad esempio il *cut throwh* (C). ***chiave_4.blend***
 
 ![image](https://github.com/user-attachments/assets/6fe283f5-27d7-4aca-b1b7-93d29c5159e9)
 
@@ -94,14 +94,14 @@ Ho provato anche ad aggiungere delle obre e dei punti di luce con il pennello ma
 Per l'elmo non ho utilizzato l'immagine di riferimento poichè non essendo abbastanza dettagliata e senza un buon riferimento degli spazi sarebbe stato inutile. Ho trovato però su youtube un video di una modellazione di un elmo e ne ho preso ispirazione. [link al video](https://www.youtube.com/watch?v=yV5Kl4o13VE&t=149s)
 
 1. Questa volta ho subito impostato per bene le dimensioni e la posizione del mio oggetto iniziale (un cubo) così da non avere problemi in seguito.
-Il mio cubo iniziale ha subito un Bevel su 3 dei 4 lati esterni così da la sciare solo una "punta" ovvero l aparte d'avanti dell'elmo.
-Dopodichè ho fatto un loop cut *Ctrl+R* attorno alla mia figura e l'ho sistemataall'altezza degli occhi, dopodichè ho scalato il taglio così da creare la mia forma di partenza.
-Dopo aver "lisciato" le facce utilizzando i soliti modificatori, ho tagliato l atesta del mio modello così da creare la placca superiore dell'elmo, ho utilizzato lo strumento *knife* e poi ho modellato la placca scalando e facendo delle estrusioni per rendere la figura più interessante. ***elmo_1.blend***
+Il mio cubo iniziale ha subito un Bevel su 3 dei 4 lati esterni così da lasciare solo una "punta" ovvero la parte d'avanti dell'elmo.
+Dopodichè ho fatto un loop cut *Ctrl+R* attorno alla mia figura e l'ho sistemata all'altezza degli occhi, dopodichè ho scalato il taglio così da creare la mia forma di partenza.
+Dopo aver "lisciato" le facce utilizzando i soliti modificatori, ho tagliato la testa del mio modello così da creare la placca superiore dell'elmo, ho utilizzato lo strumento *knife* e poi ho modellato la placca scalando e facendo delle estrusioni per rendere la figura più interessante. ***elmo_1.blend***
 
 ![image](https://github.com/user-attachments/assets/125e1aa5-7e93-4201-9ddf-66e636a3071c)
 
-2. A questo punto, visto che non avevo una reference precisa (il disegno iniziale è di vista frontale), ho inventato il retro, seguendo anche il video linkato il quale usa delle funzionalità a pagamento e quindi mi sono dovuto reinventare.
-ho diviso in due metà il pezzo principale e ho scalato quello posteriore così da dare l'effetto di due pezzi saldati insieme, ho poi tagliato in modo obliquo quello anteriore così da rendere più interessante il modello. ***elmo_2.blend***
+2. A questo punto, visto che non avevo una reference precisa (il disegno iniziale è di vista frontale), ho inventato il retro, seguendo anche il video linkato il quale usa delle funzionalità a pagamento per modellare e quindi mi sono dovuto reinventare.
+Ho diviso in due metà il pezzo principale e ho scalato quello posteriore così da dare l'effetto di due pezzi saldati insieme, ho poi tagliato in modo obliquo quello anteriore così da rendere più interessante il modello. ***elmo_2.blend***
 
 ![Screenshot 2025-05-26 122059](https://github.com/user-attachments/assets/31f4b4ee-b2b6-4ad4-8919-fea22112162a)
 
@@ -116,15 +116,15 @@ Dopodichè ho fatto un bevel dei lati della placca degli occhi. ***elmo_5.blend*
 ![image](https://github.com/user-attachments/assets/10e75cc4-6ce7-435e-9d79-74a2a0933ab9)
 
 6. Ho fatto anche i tagli per gli occhi, sempre con lo strumento *knife*, dopodichè ho fatto un bevel per l'interno del taglio.
-Un problema ch eho avuto e stato quello di ritrovarmi con una grande quantità di edges inutili, creati dal bevel, quindi li ho "ripuliti" eliminando quelli non necessari. ***elmo_6.blend***
+Un problema che ho avuto e stato quello di ritrovarmi con una grande quantità di edges inutili, creati dal bevel, quindi li ho "ripuliti" eliminando quelli non necessari. ***elmo_6.blend***
 
 ![image](https://github.com/user-attachments/assets/c19e4178-3329-4a0f-8a01-e741ca69e524)
 
 7-8-9-10. A questo punto ho aggiunto i rivetti dell'elmo, ho usato diverse tecniche, di cui una suggerita nel video linkato sopra.
 Pre prima cosa un rivetto è semplicemente una sfera con un *subdivision modifier* e un *Shade auto smooth*, i primi che ho inserito sono quelli laterali che uniscono la placca frontale con quella posteriore, ho utilizzato un modificatore *Mirror* così da posizionarli solo su un lato.
-Poi mi sono occupato di quelli sulla placca superiore, per prima cosa ho fatto un loop cut che circondasse tutta la placca, perfettamente centrato sul lato della placca, linea immaginaria di dove andranno i rivetti. dopodichè ho selezionato tutti gli edges partendo dal primo e premento *Ctrl* su quello centrale per selezionare anche tutti gli intermedi e li ho separati dal resto del modello.
-Utilizzando i *Geometry Nodes* sulla line appena separata e inserendo un *Istance on Points* e selezioanndo come istanza il rivetto. Per gestire poi il numero di rivetti aggiungiamo un *resample curve* così da gestire il numero di rivetti, a questo punto aggiungiamo un modificatore *Mirror* per l'altro lato della placca.
-Infine, "a mano", ho aggoiunto i rivetti attorno agli occhi e sulla placca frontale, sempre utilizzando *Mirror*
+Poi mi sono occupato di quelli sulla placca superiore, per prima cosa ho fatto un loop cut che circondasse tutta la placca, perfettamente centrato sul lato della placca, linea immaginaria di dove andranno i rivetti. Dopodichè ho selezionato tutti gli edges partendo dal primo e premendo *Ctrl* su quello centrale per selezionare anche tutti gli intermedi e li ho separati dal resto del modello.
+Ho utilizzato i *Geometry Nodes* sulla line appena separata, inserendo un *Istance on Points* e selezioanndo come istanza il rivetto. Per gestire poi il numero di rivetti ho aggiunto un *resample curve* così da gestire il numero di rivetti, a questo punto aggiungiamo un modificatore *Mirror* per l'altro lato della placca.
+Infine, "a mano", ho aggiunto i rivetti attorno agli occhi e sulla placca frontale, sempre utilizzando *Mirror*.
 - ***elmo_7.blend*** rivetti di unione tra le due placche principale 
 - ***elmo_8.blend*** rivetti sulla placca superiore
 - ***elmo_9.blend*** rivetti sulla placca frontale
@@ -144,7 +144,7 @@ Utilizzando sempre una *curva di Bézier* ho creato la sciarpa, ne ho tappato i 
 
 ![image](https://github.com/user-attachments/assets/4db9942a-3c71-4e73-8d29-7f5e00840675)
 
-14. Infine, grazie anche ad una buona dose di studio e ricerca online tra youtube e blog, ho cercato di comprendere il funzionamento delle animazioni con i *cloth* e i vari parametri. Di seguito una delle prove con anch eun problema che avevo riscontrato con il tappo finale della sciarpa che si staccava dal resto della mash, risolto semplicemente ricostruendo le facce che lo componevano. ***elmo_14.blend***
+14. Infine, grazie anche ad una buona dose di studio e ricerca online tra youtube e blog, ho cercato di comprendere il funzionamento delle animazioni con i *cloth* e i vari parametri. Di seguito una delle prove con anche un problema che avevo riscontrato con il tappo finale della sciarpa che si staccava dal resto della mash, risolto semplicemente ricostruendo le facce che lo componevano. ***elmo_14.blend***
 
 https://github.com/user-attachments/assets/68464c4c-b39a-47ec-8f69-ad8f931104d7
 
@@ -246,7 +246,7 @@ L'effetto mi piaceva molto, non è fedele all'immagine ma le due metà illuminat
 ![render_50](https://github.com/user-attachments/assets/2c5922cf-551c-4f3e-a559-4157ee3f486f)
 
 ### Rendering Video
-Ho creato una semplice animazioen di vista frontale con 50 Samples di qualità e un totale di 125 frame (con 25 frames al secondo), il risultato è il seguente.
+Ho creato una semplice animazioen di vista frontale con 50 Samples di qualità e un totale di 125 frame (con 25 frames al secondo), il risultato è il seguente. La qualità dell'immagine non è un granchè ma ho dovuto abbassare i sample altrimenti la durata della renderizzazione sarebbe stata eccessiva.
 
 https://github.com/user-attachments/assets/5c7e4307-4be1-4a01-bcba-488312dfdb2a
 
