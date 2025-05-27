@@ -247,10 +247,18 @@ L'effetto mi piaceva molto, non è fedele all'immagine ma le due metà illuminat
 
 ![render_50](https://github.com/user-attachments/assets/2c5922cf-551c-4f3e-a559-4157ee3f486f)
 
-### Rendering Video
+### Primo Rendering Video
 Ho creato una semplice animazioen di vista frontale con 50 Samples di qualità e un totale di 125 frame (con 25 frames al secondo), il risultato è il seguente. La qualità dell'immagine non è un granchè ma ho dovuto abbassare i sample altrimenti la durata della renderizzazione sarebbe stata eccessiva.
 
 https://github.com/user-attachments/assets/5c7e4307-4be1-4a01-bcba-488312dfdb2a
+
+### Secondo Rendering Video
+Dopo il primo rendering ho modificato la scena e sperimentato nuove tipologie di luci. Ho inserito al centro del mio modello un elemento *Empty* che linkato insieme alla telecamera e ad una fonte di luce (*sole*) ho fatto ruotare attorno alla figura inserendo 2 Key Frame, uno all'inizio con la rotazione sull'asse z pari a 0 gradi e un altro 225 frame dopo con il valore di rotazione sull'asse z a 365 gradi.
+Il nuovo set-up del rendering si trova sul file ***finaleV2.blend*** e il risultato è il seguente.
+
+https://github.com/user-attachments/assets/38814987-0d13-457f-86a6-eb7a8f7dd545
+
+
 
 
 
