@@ -4,7 +4,9 @@ Repository per il progetto in Blender di Trabucco Luigi (FCG)
 
 Il progetto consiste nella realizzazione di un modello 3D del logo di una tifoseria organizzata creata dal sottoscritto e alcuni amici, la Gradinata Rovereto.
 Siamo un gruppo Ultras che segue una squadra di basket Chiavarese che milita in 6a serie nazionale.
-Il progetto è realizzato usando la versione 4.3.2
+
+Il progetto è realizzato usando la versione 4.3.2 di Belnder
+
 Il Disegno è stato realizzato da un amico perciò non ho trovato reference utilizzabili su internet.
 Prima di seguire il corso di Fondamenti di Computer Grafica mi ero già interessato a Blender, con l'obiettivo di creare modelli stampabili (al tempo con scarsi risultati).
 
