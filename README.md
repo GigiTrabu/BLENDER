@@ -162,11 +162,11 @@ Dal mio punto di vista la parte dei materiali è molto complicata ma allo stesso
 
 ![image](https://github.com/user-attachments/assets/21dc10a6-9cd5-46ff-b89f-67db436c94a2)
 
-3-4. Come prima cosa ho provato la funzionalità del *vento*, con scarsi risultati. Leggendo online ho capito che la funzionalità del vento è difficile da gestire dati i molti fattorri che potrebbero causare il non funzionamento, decido di affrontarlo in seguito. Nel mentre ho sistemato la sciarpa pendendte che ora è molto più realistica. ***finale_3.blend*** - ***finale_4.blend***
+3-4. Come prima cosa ho provato la funzionalità del *vento*, con scarsi risultati. Leggendo online ho capito che la funzionalità del vento è difficile da gestire dati i molti fattori che potrebbero causare il non funzionamento, decido di affrontarlo in seguito. Nel mentre ho sistemato la sciarpa pendendte che ora è molto più realistica. ***finale_3.blend*** - ***finale_4.blend***
 
 ![image](https://github.com/user-attachments/assets/2669ae52-e030-4d98-97ff-ee650dd79cc6)
 
-5. Ho cominciato anche  apensare ad una possibile animazione differente da quella del vento, nel caso non fossi riuscito a farla funzionare. Ho creato una piccola animazione con la figura che gira di 360 gradi. Non mi ha emozionato e l'ho sccessivamente scartata. ***finale_5.blend***
+5. Ho cominciato anche a pensare ad una possibile animazione differente da quella del vento, nel caso non fossi riuscito a farla funzionare. Ho creato una piccola animazione con la figura che gira di 360 gradi. Non mi ha emozionato e l'ho sccessivamente scartata. ***finale_5.blend***
 
 6. Dopo la fallimentare prova di animazione ho ricominciato la parte di shading e colorazione. Ho cominciato ad assegnare diversi materiali base alla mia figura, non più utilizzando la funzionalità Brush ma con la creazione di materiali. ***finale_6.blend***
 
@@ -201,7 +201,7 @@ Il risultato dopo aver visto i suoi video è stato il seguente. ***finale_13.ble
 
 ![image](https://github.com/user-attachments/assets/6d7598ea-ac6e-4396-9ab7-ab86faa2b28e)
 
-14. Sul canale linkato ho trovato un sacco di materiali interessantissimi e perfetti per il mio progetto. Ho cercato di creare un mio materiale per la spada dopo aver visto il suo video. Inizialmente è stato molto difficile comprendere alcuni tipi di nodi m andando avanti si cominciano a comprendere. Risultano essere solo una successione *Noise Texture* e *Varanoi Texture* che intervallate da *Color ramp* e *Bump* restituiscono l'effetto desiderato.
+14. Sul canale linkato ho trovato un sacco di materiali interessantissimi e perfetti per il mio progetto. Ho cercato di creare un mio materiale per la spada dopo aver visto il suo video. Inizialmente è stato molto difficile comprendere alcuni tipi di nodi ma andando avanti si cominciano a comprendere. Risultano essere solo una successione *Noise Texture* e *Varanoi Texture* che intervallate da *Color ramp* e *Bump* restituiscono l'effetto desiderato.
 Senza una conoscenza approfondita dei materiali è quasi impossibile creare un materiale realistico per questo ho preso molta ispirazione dal ragazzo dei video e cercando poi di modificali a mio gusto anche per prendere dimestichezza e per capire i vari modificatori di ogni nodo.
 L'effetto finale della spada è il seguente. ***finale_14.blend***
 
@@ -218,7 +218,7 @@ Rispetto al suo materiale ho cercato di rendere la chiave più sporca inserendo 
 
 ![image](https://github.com/user-attachments/assets/5c00a1d2-0b19-4a52-bf63-84955dc9e752)
 
-17. Come ultima cosa ho copiato lo stesos materiale usato nelle placche rpincipali, l'ho leggermente modificato rimuovendo alcuni *Noise Texture* e l'ho reso del colore desiderato. Materiale che è assegnato a tutti i rivetti e alla placca frontale. Guardando il disegno mi sono anche reso conto che questo materiale andava assegnato anch alla faccia superiore della placca superiore e così ho fatto. ***finale_17.blend***
+17. Come ultima cosa ho copiato lo stesso materiale usato nelle placche principali, l'ho leggermente modificato rimuovendo alcuni *Noise Texture* e l'ho reso del colore desiderato. Materiale che è assegnato a tutti i rivetti e alla placca frontale. Guardando il disegno mi sono anche reso conto che questo materiale andava assegnato anche alla faccia superiore della placca superiore e così ho fatto. ***finale_17.blend***
 
 ![image](https://github.com/user-attachments/assets/b95ad5d3-630d-41d4-908f-0e01e239f553)
 
@@ -230,13 +230,13 @@ Il file finale con il set up del rendering si trova nel file ***finale.blend***
 # RENDERING 🎥 📷
 
 ### Animazione del vento
-Per prima cosa ho riaffrontato il problema del vento, questa volta con dei risultati. Ho guardato una grande quantità di video di perosne che creavano delle bandiere al vento (non li linko tutti, sono veramente tanti) cercando di capire il perchè del  mio mancato funzionamento.
+Per prima cosa ho riaffrontato il problema del vento, questa volta con dei risultati. Ho guardato una grande quantità di video di perosne che creavano delle bandiere al vento (non li linko tutti, sono veramente tanti) cercando di capire il perchè del mio mancato funzionamento.
 Con calma studiando nel pannello *Physics* del vento ho trovato il problema. Non stavo dando abbastanza forza al vento il quale non spostava di un millimetro la mia sciarpa. Questo il risultato finale.
 
 https://github.com/user-attachments/assets/af1131f9-73a2-4dbf-8c6e-ee4115ec6fed
 
 ### Primo rendering di un'immagine
-Ho eseguito il primo rendering con **2048 Samples** (decisamente troppi) e come render engine ho usato *Cycles*, molto buono per rappresentare le obre ma molto pesante da elaborare l'immagine. Il risultato è stato il seguente. ***Render.png***
+Ho eseguito il primo rendering con **2048 Samples** (decisamente troppi) e come render engine ho usato *Cycles*, molto buono per rappresentare le ombre ma molto pesante nel momento in cui si elabora l'immagine. Il risultato è stato il seguente. ***Render.png***
 
 ![Render](https://github.com/user-attachments/assets/9db0cade-0aa2-4387-8e02-34575b83c6ae)
 
