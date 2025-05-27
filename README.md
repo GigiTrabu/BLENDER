@@ -10,7 +10,7 @@ Prima di seguire il corso di Fondamenti di Computer Grafica mi ero già interess
 
 ![Image](https://github.com/user-attachments/assets/583d0e2d-e048-47b2-b265-70f56ac1df94)
 
-# ORGANIZZAZIONE REPOSITORY
+# ORGANIZZAZIONE REPOSITORY 📂
 Nella repository sono presenti 5 Cartelle contenenti tutti i file indicati su questo README.
 Ho deciso di scomporre il mio modello principale in 3 modelli differenti (folder chiave/spada/elmo), tutto il lavoro svolto poi sui 3 modelli congiunti si trova nel folder "finale", mentre nel folder "render" si trovano tutti i render del mio progetto.
 
