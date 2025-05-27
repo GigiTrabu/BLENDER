@@ -245,6 +245,12 @@ L'effetto mi piaceva molto, non è fedele all'immagine ma le due metà illuminat
 
 ![render_50](https://github.com/user-attachments/assets/2c5922cf-551c-4f3e-a559-4157ee3f486f)
 
+### Rendering Video
+Ho creato una semplice animazioen di vista frontale con 50 Samples di qualità e un totale di 125 frame (con 25 frames al secondo), il risultato è il seguente.
+
+https://github.com/user-attachments/assets/5c7e4307-4be1-4a01-bcba-488312dfdb2a
+
+
 
 
 
